@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeachRecognitionFirst", "SpeachRecognitionFirst.csproj", "{5635E1F3-F61F-44E5-8676-0365F441A233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5635E1F3-F61F-44E5-8676-0365F441A233}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{5635E1F3-F61F-44E5-8676-0365F441A233}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{5635E1F3-F61F-44E5-8676-0365F441A233}.Release|ARM64.ActiveCfg = Release|ARM64
+		{5635E1F3-F61F-44E5-8676-0365F441A233}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB19BDE-6990-43D9-9DD5-3844408A51FE}
+	EndGlobalSection
+EndGlobal
